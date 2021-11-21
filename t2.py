@@ -1,1 +1,1 @@
-tprint('hello, world')
+print('hello, world')
